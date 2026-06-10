@@ -1,3 +1,4 @@
+
 public class BlueQ2 {
     /**
      * Returns which has a higher range: a given linked list or a given tree.
@@ -32,7 +33,7 @@ public class BlueQ2 {
      * @return "list" if the list has a bigger range, "tree" otherwise
      */
     public static String biggerRange(ListNode head, TreeNode root) {
-        return null;
+        ListNode<Integer> list = new ListNode<>();
     }
 
 
